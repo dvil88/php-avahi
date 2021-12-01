@@ -10,6 +10,12 @@ It is highly inspired from the [php5-avahi](https://code.google.com/archive/p/ph
 Dependencies
 ------------
 
+First clone recursively the repository
+
+```
+git clone --recursive https://github.com/dvil88/php-avahi.git
+```
+
 You will need `php` and `avahi` installed.
 For archlinux, use the following command:
 
