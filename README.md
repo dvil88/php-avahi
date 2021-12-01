@@ -26,7 +26,7 @@ For archlinux, use the following command:
 For ubuntu, use the following command:
 
 ```
-# apt install php-dev libavahi-client-dev libavahi-common-dev
+# apt install php8.0-dev libavahi-client-dev libavahi-common-dev
 ```
 
 Compiling & installing
